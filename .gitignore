@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Node.js
+node_modules/
+
+# React
+ai-frontend/node_modules/
+build/
+
+# Genel
+.env
+.DS_Store
+results.json
